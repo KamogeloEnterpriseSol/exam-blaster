@@ -1,0 +1,23 @@
+{
+  "name": "exam-blaster",
+  "version": "1.0.0",
+  "description": "This is an mvp for exam-blaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\HP\\Documents\\GitHub\\exam-blaster"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.21.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "pdfjs": "^2.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

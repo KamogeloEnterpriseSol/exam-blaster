@@ -1,0 +1,24 @@
+{
+    "question_types": [
+      {
+        "type": "definition",
+        "keywords": ["define", "what is", "meaning of"],
+        "examples": ["What is the definition of artificial intelligence?", "Define machine learning."]
+      },
+      {
+        "type": "comparison",
+        "keywords": ["compare", "contrast", "difference between"],
+        "examples": ["Compare supervised and unsupervised learning.", "What's the difference between AI and ML?"]
+      },
+      {
+        "type": "problem-solving",
+        "keywords": ["solve", "how to", "what would happen if"],
+        "examples": ["How to implement a neural network?", "What would happen if AI surpasses human intelligence?"]
+      }
+    ],
+    "question_classification": {
+      "definition": ["What is the capital of France?", "Define cloud computing."],
+      "comparison": ["Compare Python and Java.", "What's the difference between SQL and NoSQL?"],
+      "problem-solving": ["How to optimize algorithm performance?", "What would happen if a self-driving car encounters an obstacle?"]
+    }
+  }
